@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Popular_Movies_Stage_2_DR</string>
+    <string name="sort_settings">Sort Movies</string>
+    <string name="popular">Popular</string>
+    <string name="detail_activity">Detail</string>
+    <string name="top_rated">Top Rated Movies</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialog_title">Select sorting type</string>
+    <string name="trailer">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="favourite">Favourite</string>
+    <string name="release_date">Release Date :</string>
+    <string name="rating">Rating :</string>
+    <string name="add_to_favourite">Add To Favourite</string>
+    <string-array name="sort_types">
+        <item>Most Popular</item>
+        <item>Top Rated</item>
+        <item>Favourite</item>
+    </string-array>
+</resources>
